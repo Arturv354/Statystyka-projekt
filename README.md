@@ -3,3 +3,5 @@ Projekt ze statystyki na temat małżeństw i rozwodów w Polsce w różnych lat
 Prezentacja została przygotowana w oparciu o edytor online JuliaBox.
 
 Autorzy: Artur Chrząstowski, Filip Piłat
+
+Podział pracy: 50/50
